@@ -177,22 +177,9 @@
 						<h2>Contact</h2>
 					</div>
 					<div>
-						<form>
-							<div class="form-group">
-								<label>Name</label>
-								<input type="name" class="form-control" id="name" aria-describedby="emailHelp" placeholder="Full Name">
-							</div>
-							<div class="form-group">
-								<label>Email address</label>
-								<input type="email" class="form-control" aria-describedby="emailHelp" placeholder="Enter email">
-								<small id="emailHelp" class="form-text text-muted">I'll never share your email with anyone else.</small>
-							</div>
-							<div class="form-group">
-							    <label for="exampleTextarea">Message</label>
-							    <textarea class="form-control" rows="3" placeholder="Enter your message"></textarea>
-							</div>
-							<button type="submit" class="btn btn-primary">Submit</button>
-						</form>
+						<p>
+							Email: <a href="mailto:oprogfrogo@gmail.com">oprogfrogo@gmail.com</a>
+						</p>
 					</div>
 				</div>
 			</div>
