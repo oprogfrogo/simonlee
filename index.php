@@ -5,15 +5,15 @@
 <html class="no-js" lang="en-US">
 
 <head>
-	<title>Sleek - Responsive Resume Theme</title>
+	<title>Simon Lee - Software Engineer</title>
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" >
 	<![endif]-->
 	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1" />
 	<meta name="apple-mobile-web-app-capable" content="yes" />
-	<meta name="description" content="Premium theme.">
-	<meta name="keywords" content="" />
+	<meta name="description" content="Simon Lee">
+	<meta name="keywords" content="Simon Lee" />
 	<meta name="author" content="Simon Lee">
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
