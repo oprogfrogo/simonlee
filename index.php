@@ -156,8 +156,8 @@
 					<div class="container-fluid">
 						<div>
 							<ul class="enlarge">
-								<li><img src="assets/images/portfolio1.png" width="150px" height="100px" alt="Dechairs" /><br />Rebranding Project<span><img src="assets/images/portfolio1.png" alt="Deckchairs" width="500px" /><br />Rebranding Project</span></li>
-								<li><img src="assets/images/my-github-contributions.png" width="150px" height="100px" alt="Blackpool sunset" /><br />Github Contributions<span><img src="assets/images/my-github-contributions.png" width="500px" /><br />Github Contributions</span></li>
+								<li><img src="assets/images/portfolio1.png" width="150px" height="100px" /><br />Rebranding Project<span><img src="assets/images/portfolio1.png" width="500px" /><br />Rebranding Project</span></li>
+								<li><img src="assets/images/my-github-contributions.png" width="150px" height="100px" /><br />Github Contributions<span><img src="assets/images/my-github-contributions.png" width="500px" /><br />Github Contributions</span></li>
 							</ul>
 						</div>
 					</div>
