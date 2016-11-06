@@ -154,21 +154,11 @@
 						<h2>Portfolio</h2>
 					</div>
 					<div class="container-fluid">
-						<div class="row">
-							<div class="col-md-6">
-								<img src="assets/images/portfolio1.png" width="200" />
-							</div>
-							<div class="col-md-6">
-								<img src="assets/images/my-github-contributions.png" width="200" />
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-6">
-								3
-							</div>
-							<div class="col-md-6">
-								4
-							</div>
+						<div>
+							<ul class="enlarge">
+								<li><img src="assets/images/portfolio1.png" width="150px" height="100px" alt="Dechairs" /><br />Rebranding Project<span><img src="assets/images/portfolio1.png" alt="Deckchairs" width="500px" /><br />Rebranding Project</span></li>
+								<li><img src="assets/images/my-github-contributions.png" width="150px" height="100px" alt="Blackpool sunset" /><br />Github Contributions<span><img src="assets/images/my-github-contributions.png" width="500px" /><br />Github Contributions</span></li>
+							</ul>
 						</div>
 					</div>
 				</div>
